@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow all folders (so we can choose what to skip)
+!*/
+
+# But ignore these specific folders
+Midterm 1/
+Midterm 2/
+
+# Allow all files inside other folders
+!**/*
